@@ -1,0 +1,6 @@
+.idea/
+packages
+*.dart.js.*
+*.dart.js
+*.dart.precompiled.js
+pubspec.lock
